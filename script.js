@@ -1,0 +1,3 @@
+<script>
+text=Hi
+</script>
